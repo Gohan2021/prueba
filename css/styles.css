@@ -4,6 +4,7 @@
     align-items: center;
     justify-content: space-around;
     background-color: orangered;
+    box-shadow: 5px 10px #888888;
 }
 .header img{
 width: 100px;
