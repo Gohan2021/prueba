@@ -1,0 +1,16 @@
+.header{
+    height: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: orangered;
+}
+.header img{
+width: 100px;
+}
+.header a{
+    text-decoration: none;
+    color: white;
+    padding: 0 15px;
+    font-weight: bolder;
+}
